@@ -1,0 +1,24 @@
+{
+  "name": "yosemitelodge",
+  "version": "1.0.0",
+  "description": "Send email when yosemite lodge is available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzdev/YosemiteLodge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzdev/YosemiteLodge/issues"
+  },
+  "homepage": "https://github.com/xzdev/YosemiteLodge#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "node-fetch": "^2.4.1",
+    "nodemailer": "^6.1.1"
+  }
+}
