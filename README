@@ -1,8 +1,0 @@
-## Check Yosemite Valley Lodge and Notify Available Slots Using Email
-
-Update the SMTP config in the index.js to set your SendMail feature.
-Input the week you are interested in the command line argument with format `yyyy-mm-dd`.
-
-```
-node index.js 2019-08-01
-```
